@@ -273,7 +273,7 @@ window.addEventListener("DOMContentLoaded", function () {
   const name = params.get("name");
   // Hiển thị vào div PARAGRAPH94 nếu có giá trị
   if (name) {
-    const el = document.querySelector("#w-amfdze1w .name");
+    const el = document.querySelector("#w-bh5gk9eg .name");
     if (el) el.textContent = name;
   }
 });
